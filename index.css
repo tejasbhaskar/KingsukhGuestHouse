@@ -1,0 +1,168 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+.navlist{
+
+text-align: center;
+display: flex;
+list-style-type: none;
+color: red;
+}
+.navlist li{
+    margin: 32px;
+    color: red;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 60px;
+    float: left;
+}
+.king li a{
+    display: flex;
+    float: left;
+}
+.navlist li:hover{
+    background-color: green;
+}
+
+    body{
+        background-image: url('img6.jpg ');
+        background-size:cover;
+        background-repeat: no-repeat; 
+        background-position: center;
+
+        
+    }
+    .imgcont{
+        text-align: center;
+
+        
+    }
+    .book{
+        text-align: center;
+    }
+    .book h2 a{
+       color: red;
+    }
+    
+    .box2{
+        padding: 50px;
+        float: right;
+        margin-top: 80px;
+
+    }
+    .a{
+        padding: 90px;
+        margin-bottom: 100px;
+    }
+    .room{
+        padding: 60px;
+        margin-left: 90px;
+    }
+    .main1{
+        border: 2x solid black;
+        padding:70px ;
+        display: flex;
+    }
+    .box4{
+        margin-left: 20px;
+    }
+    .buton h2 a{
+        color: red;
+    }
+   .main2{
+    display: flex;
+    margin: 12px;
+    height: 600px;
+}
+   .imgcon{
+    margin-left: 300px;
+    
+   }
+   .mainc{
+    margin-left: 50px;
+    margin: 50px;
+
+   }
+
+   .main3{
+    display: flex;
+    padding: 50px;
+    margin-left: 400px;
+
+   }
+   .j{
+    margin-left: 300px;
+   }
+   .form{
+    display: flex;
+    margin-top: 90px;
+   }
+   .person{
+    border: 2px solid rgb(67, 219, 47);
+    background-color: rgb(243, 72, 72);
+    width: 300px;
+    height: 400px;
+    padding: 12px;
+   }
+   .contactform{
+    width: 800px;
+    height: 300px;
+    margin-left: 120px;
+    padding-top: 32px;
+    background-color: beige;
+   }
+   .footermain{
+    display: flex;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    width: 1460px;
+   }
+   
+   .footer1{
+    width: 300px;
+    text-align: center;
+
+   }
+   .footer2{
+    width: 300px;
+    text-align: center;
+    margin-left: 90px;
+
+   }.footer3{
+    width: 300px;
+    text-align: center;
+    margin-left: 100px;
+
+   }.footer4{
+    width: 300px;
+    text-align: center;
+    margin-left: 150px;
+
+   }
+   .buttton h2 a{
+    color: red;
+}
+.copyright{
+text-align: center;
+background-color: black;
+color: white;border-radius: 60px;
+}
+.footer1 h2 a{
+    color: rgb(211, 24, 24);
+}
+.footer2 h2 a{
+    color: rgb(211, 24, 24);
+}.footer3 h2 a{
+    color: rgb(211, 24, 24);
+}.footer4 h2 a{
+    color: rgb(211, 24, 24);
+}
+.navbar ul li a{
+    text-size-adjust: 10px;
+    color: red;
+    
+}
